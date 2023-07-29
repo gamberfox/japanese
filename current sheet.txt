@@ -1,0 +1,7 @@
+早い	early
+
+速い	quick
+遅い	slow
+
+近い	close
+遠い	far
