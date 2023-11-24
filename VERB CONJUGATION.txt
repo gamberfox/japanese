@@ -1,0 +1,375 @@
+TE-FORM:when used by itself, it’s a request. But it’s all over the place. It also implies that something else might come
+来てください,来まして
+きてください、きまして
+Suru:して
+
+いる	える	食べる		見る
+いて	えて	たべて		見て
+
+行く(irregular)	いく
+行って		いって
+
+う	つ	る
+って
+
+す
+して
+
+く	ぐ
+いて	いで
+
+ぬ	ぶ	む
+んで
+
+PAST TENSE:ta-form.
+来た	きた
+した
+
+
+
+いる	える	食べる		見る
+いて	えて	たべて		見て
+
+行く(irregular)
+行った　I went
+
+
+う	つ	る
+った
+
+く	ぐ
+いた	いだ
+
+す
+した
+
+ぬ	む	ぶ
+んだ
+
+CONTINUOUS:it indicates an action is in progress, it is continuously being done.it’s used to talk about things you’re doing right now OR things that are in a certain state
+Kuru:来る,来ている、来てる
+	くる、きている、きてる
+Suru:する、している		してる
+
+いる		える		食べる		見る
+ている		ている		食べている	見ている
+
+行く(irregular)
+行っている　I’m going
+
+
+う	つ	る
+っている
+
+く		ぐ		聞く		急ぐ
+いている	いでいる	聞いている	急いでいる
+
+す		話す
+している	話している
+
+ぬ	む	ぶ		読む		遊ぶ
+んでいる	んでる		読んでいる	遊んでいる
+
+
+NEGATIVE:If the vowel that comes before nai is an ‘i’ or an ‘e’, the verb is always an 一段 verb.
+
+Kuru:	来る,	来ない、	来ません
+	くる	こない		きません
+Suru:する、しない、しません
+aru:ある、ない、ありません
+
+いる		える		食べる		見る
+ない		ない		食べない	見ない
+ません		ません		食べません	見ません
+
+どうするの、食べるの、食べないの
+What will you do?, eat?, not eat?
+行く(not irregular this time)
+行かない	行きません	i will not go
+
+
+う		言う
+わない		言わない	言いません
+
+・・・・・Everyone else: just remove the last vowel and add あない
+
+PAST-NEGATIVE:
+Kuru:来る,	来なかった、	来ませんでした
+	くる	こなかった	きませんでした
+Suru:する、しなかった、	しませんでした
+Aru:ある、なかった、	ありませんでした
+
+いる			える			食べる			見る
+いなかった		えなかった		食べなかった		見なかった
+いませんでした	えませんでした	食べませんでした	見ませんでした
+
+行く(not irregular this time)
+行かなかった	行きませんでした	i will not go
+
+う			言う
+わなかった		言わなかった		言いませんでした
+
+・・・・・Everyone else: just remove the last vowel and add あなかった
+PASSIVE:it’s used to express that something is being done, but not by a clear actor, it’s just happening. This passive form can both be used to express that some sort of regretful action has been done upon you like in a passive way. It can be a neutral statement, ‘it has been done’. It can be even used in an honorific respectful language to express that respect, ‘ to look vs to be seen by somebody’.
+
+Kuru:来る	こられる	来られます
+	くる	こられる	こられます
+Suru:する、される、	されます
+
+
+いる			える		食べられる			見られる
+いられる		えられる	食べられる			見られる
+
+
+言う	言われる
+
+・・・・・Everyone else: just remove the last vowel and add あれる
+
+CAUSATIVE:THIS is for showing the cause for something. This can be translated as making someone do something, or letting someone do something. This depends on the context. It could mean to force someone to eat, or to let someone eat.
+
+Kuru:来る,こさせる、	来させます	to make/ let do
+
+Suru:する、させる、	させます
+
+
+Take the stem(or remove る) and add させられる
+いる			える			食べる				見る
+いさせる		えさせる		食べさせる			見させる
+いさせます		えさせます		食べさせます			見させます
+
+
+
+
+言う			言わせる
+・・・・・Everyone else: just remove the last vowel and add あされる
+
+聞く		聞かせられる		聞かされる
+Be heard	to be made to heard
+
+今日は判決聞かされるだけだ			聞かされる	=	聞かせられる
+きょうははんけつきかされるだけだ
+Today we’re just going to be let hear the verdict
+
+生く(not used anymore)		生かす(used normally)
+生かされる	to be made /to let live
+CAUSATIVE-PASSIVE:you’ve learnt the passive(to be seen), the causative(to make some see something). You can combine these(you were made to do something by someone else). Instead of making someone do something, you were made to do something by someone else
+
+Kuru:来る,こさせられる、	来させられます	to make/ let do
+
+Suru:する、させられる、	させられます	to be made to do
+
+
+Take the stem(or remove る) and add させられる
+いる			える			食べる				見る
+いさせられる		えさせられる		食べさせられる		見させられる
+いさせられます	えさせられます	食べさせられます		見させられます
+										To be made/let see
+
+言う			言わせられる
+思い出す		思い出させられる	(very rare, almost unnatural to use it)
+・・・・・Everyone else: just remove the last vowel and add あされる
+		Or 	あされる
+IMPERATIVE:the Command form, when you’re telling/ordering someone to do something
+Kuru:来る,	来い	こい	come!			来て(more polite)
+こっち来い
+Come this way
+
+Suru:する、	しろ	do it!
+お前の好きにしろ
+Do as you like
+
+
+Take the stem(or remove る) and add ろ
+いる			える			食べる				見る
+いろ			えろ			食べろ				見ろ
+
+あれを見ろ	
+Look at that	
+
+言え	
+・・・・・Everyone else: just remove the last vowel and add え
+CONDITIONAL BA:if ‘the first thing’, then ‘the second thing’. This ba form can mean ‘if’ and ‘when’. It implies a very strong connection between the two events. The statme following the ば form is generally used with assumptions or general facts, but CANNOT BE USED TO EXPRESS WILL, INTENTION OR COMMAND. It needs to be a hypothetical situation. So it’s often not used with your own action because you can decide what your outcome is
+Kuru:来る,	来れば		くれば		こなければ
+絵
+ここまで来ればもう少しだ
+If we come this far, it’s just a little bit more
+
+ここまで来れば大丈夫だろう
+If we come this far, it will be alright
+
+Suru:する、	すれば		しなければ
+私もう　どうすればいいのか
+What would be good for me to do?
+
+
+Take the stem(or remove る) and add れば
+いる			える			食べる				見る
+いれば			えれば			食べれば			見れば
+いなければ		えなければ		食べなければ			見なければ
+
+イーストプール出れば、その先は黒の一帯です
+いーすとぷーるでれば、そのさきはくろのいったいです
+When you leave Eastpool, beyond there is the black zone
+
+言えば
+・・・・・Everyone else: just remove the last vowel and add えば
+negative:えなければ
+
+聞く		聞けば		
+Be heard	if you hear
+CONDITIONAL TARA:This can be used in the same way as ba(if/when), but it can also be used to express after. The ‘ba’ form is usually used for hypotheticals, the たら form is used for hypotheticals and actual conditions. 
+
+Kuru:来る,	来たら		きたら
+絵
+夏が来たら、日本に行く
+If/When/After	 summer comes, I will go to japan
+
+
+
+Suru:する、	したら
+アホなマネしたら蹴り飛ばすで	する		したら
+あほなまねしたらけりとばすで
+If you try anything stupid, I’ll kick your ass
+
+It’s the past form + ら
+Take the stem(or remove る) and add たら
+いる			える			食べる				見る
+いたら			えたら			食べたら			見たら
+
+見ればすぐ分かるよ
+You’ll know it when you see it
+
+・・It’s the past form + ら・・
+
+行く(irregular)
+行ったら　if I went
+
+
+う	つ	る
+ったら
+
+嫌だと言ったら?		言う		言ったら
+いやだといったら?
+What if I said no?
+
+く		ぐ
+いたら		いだら
+ク
+妹が聞いたら驚くだろうな		聞く		聞いたら
+いもうとがきいたらおどろくだろうな
+My sister would be surprised if she heard
+服を脱いだら?時間ないのよ		脱ぐ		脱いだら
+?
+How about if you take off your clothes? We don’t have time.
+
+
+
+す
+したら
+てめえ…どのこえ…さっきでんわではなしたやろうか
+
+
+ぬ	む	ぶ
+んだら
+て
+お前が死んだら神様も死んじゃうだろ…?
+おまえがしんだらかみさまもしんじゃうだろ?
+If you die, kami-sama will also die, right?
+POTENTIAL:This means to be able to do something. It’s conjugated the same way as the passive form. Although in casual conversation it’ll abbreviated
+
+Kuru:来る,こられる、	来られます	これる
+こっちに来られるか?
+Are you able to come here?
+
+二人とも　今すぐ東都病院に来られるか?
+ふたりとも　いますぐとうとびょういんにこられるか?
+Are both of you able to come to the East City Hospital right now?
+
+あたし、ちゃんと毎日　来れるかな...
+I wonder if I’ll be able to come every day…
+
+できる			できる		できる		できる
+
+
+Suru:する、できる			be able to do
+で
+それなら、私の護衛もできるでしょう
+それなら、わたしのごえいもできるでしょう
+
+身につけてると安心できるし
+みにつけてるとあんしんできるし
+I can feel safe when I wear it 
+
+Take the stem(or remove る) and add られる(formal) or れる(casual)
+いる			える			食べる			見る
+いられる		えられる		食べられる		見られる
+いられます		えられます		食べられます		見られます
+いれる			えれる			食べれる		見れる
+いれます		えれます		たべれます		見れます
+
+自分の
+
+今日も食べられるんだね…		食べる		食べられる
+I’m able to eat today also, huh…
+
+
+言える
+・・・・・Everyone else: just remove the last vowel and add える
+
+強いから　そんなこと言えるんですよ
+You’re strong, that’s why you can say such things.
+ 
+聞く		聞ける
+面白い話が聞けるかもしれない
+おもしろいはなしがきけるがもしれない
+We might be able to hear an interesting story
+VOLITIONAL:This means you’re showing the will or VOLITION to do something. It’s often translated as ‘let’s’, but not always
+
+Kuru:来る,こよう、	こよう		来ましょう
+こっちに来られるか?
+Are you able to come here?
+
+この世界に帰って来ようと思ったの?
+Did you think you would come back to this world?
+
+
+Suru:する、	しよう			しましょう
+
+どうしよう
+What should I do?
+
+ともかく　ここから移動しよう
+Anyway, let’s move from here
+Take the stem(or remove る) and add られる(formal) or れる(casual)
+いる			える			食べる			見る
+いよう			えよう			食べよう		見よう
+いましょう		えましょう		食べましょう		見ましょう
+		ましょ(sometimes in casual convo)
+
+まずは私たちとご飯を食べよう
+First, let’s eat something together
+
+あゆみちゃん、どこかで美味しい物を食べようか?
+あゆみちゃん、どこかでおいしいものをたべようか?
+Ayumi-chan, shall we eat something yummy somewhere?
+
+・・・・・Everyone else: just remove the last vowel and add おう
+Or the same ましょう stuff but with the godan variant
+
+言う	言おう
+
+イリス、正直に言おう
+イリス、しょうじきにいおう
+Irisu, let’s speak honestly
+
+なつのさんに話を聞こう
+Let’s hear the story from natsunosan
+
+分かった。ここで待とう
+Understood. Let’s wait here
+
+私たちも行きましょう　クライヴ
+Let’s go too, clive
+
+
+
