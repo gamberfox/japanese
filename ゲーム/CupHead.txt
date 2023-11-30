@@ -1,0 +1,4 @@
+-START	スタート
+-OPTIONS	オプション
+-DLC	DLC
+-EXIT	終了
