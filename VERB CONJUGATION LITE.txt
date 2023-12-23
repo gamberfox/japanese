@@ -18,7 +18,7 @@ Suru:して
 く	ぐ
 いて	いで
 
-ぬ	む	ぶ
+ぬ	ぶ	む
 んで
 
 PAST TENSE:ta-form.
@@ -43,7 +43,7 @@ PAST TENSE:ta-form.
 す
 した
 
-ぬ	ぶ	む
+ぬ	む	ぶ
 んだ
 
 CONTINUOUS:it indicates an action is in progress, it is continuously being done.it’s used to talk about things you’re doing right now OR things that are in a certain state
