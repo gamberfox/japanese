@@ -2,12 +2,16 @@
 			なにかようなの
 Oh, Faye. What do you want with aruru?
 
-MUST NOT DO
-ちゃ/じゃ	いけない	must not do	.(it’s a little formal)
+ちゃ・じゃ　いけない:MUST NOT DO::::::　It’s the colloquial of saying てはいけない・ではいけない. It’s often used when expressing rules or common knowledge.
+
+ちゃ・じゃ	いけない	must not do	.(it’s a little formal)
 It’s the colloquial version of	ては/では	いけない
+
+入れる		いれる		put in/ let in
 
 入れちゃいけない	must not put in/let in
 死んじゃいけない	must not die
+
 
 Using ダメ instead of いけない makes the expression more casual
 死んじゃダメ
@@ -15,14 +19,21 @@ Using ダメ instead of いけない makes the expression more casual
 男の人は中へ入れちゃいけないきまりになってんるんだけど
 It’s become a rule that men must not come inside
 
-だけ		only, just, as much as-
+
+だけ: only, just, as much as–:::::::: 
+
+	うばいとる
+もう一度奪い取るだけさ
+I only/just need to steal it back once more
 
 できるだけ	do as much as you can
 
 
 
-でしょう	でしょ		I think, It seems, probably, right?
-Used instead of です. It implies a degree of probability or speculation
+でしょう	でしょ		I think, It seems, probably, right?(polite):::::Used instead of です, so it’s polite. It’s used to impliy a degree of probability or speculation. You can think/say something is probably okay
+
+いいでしょう I think it’s okay/ it’s okay right?
+You’re stating that it’s probably okay, or speculating on whether it is.
 
 うちの兵どもでは、物足りないでしょう
 うちのへいどもでは、ものたりないでしょう
@@ -37,20 +48,25 @@ I’m sure my troops would not be enough
 
 でも: but, however, although: it’s often used to start a new sentence or connect two contradicting ideas
 
+方(ほう)がいい:had better, it’d be better to, should: expressing that it would be better if you did a certain action. It’s used with a verb in any tense
 
-方(ほう)がいい:had better, it’d be better to, should
-勉強　する/した　方がいい	you should study/ it would be better if you studied
+勉強　する・した　方がいい	you should study/ it would be better if you studied
+
+少々気を付けた方がいいかもしれん
+I may be better if you were a little careful.
 
 
 から:from, because(when put after a verb or i-adjective) but if it’s a noun or na-adjective you must use だから
+
 こちら　東京からいらしてる霧生さんです
 This is kiryuu-san from tokyo
 
-方(かた): the way of doing something;how to do: used with the stem form of a verb, it shows the way of doing something or how to do that particular 
+(31:10)方(かた): the way of doing something;how to do: used with the STEM FORM of a verb, it shows the way of doing something or how to do that particular verb
+
 食べ方: how to eat, how someone eats
 
 丁寧な話し方もできるんだな
-ていねいなはなしかたもできるんだな
+ていねいなはなしかた
 You can also talk in a polite way of speaking
 
 もっとマシな戦い方はできないの?
@@ -58,18 +74,30 @@ Can’t you do a little better way of fighting?
 
 だけ(casual)/けれど(formal)/けれども(formal+polite): but, however, although
 
-くらい/ぐらい:1.about、 approximately.. 2.at least, at the very least
 
-まだ:still, not yet
+
+
+くらい/ぐらい:1.about、 approximately.. 
+
+まかせてどれくらい
+Leave it to me, Around how much?
+
+2.at least, at the very least
+
+一度くらいは経験したいじゃない?
+Wouldn’t you like to experience that at least once?
+
+まだ:still, not yet::::: 
 
 まだだ！まだ魔法障壁がある
 まだだ！まだまほうしょうへきがある
 Not yet! There’s still a magic barrier
 
-まだ・V・ていません: have not yet: used(with a verb in the teimasen or teinai form) to express an action has not yet been done. Used solely with verbs
+まだ・V・ていません: have not yet: used(with a verb in the teimasen or teinai form) to express an action has not yet been done. Used solely with verbs. I
 
-まだ終わっていない
-I’m still not finished
+バスはまだ来ていません	The bus still hasn’t come yet
+
+まだ終わっていない		I’m still not finished
 
 まで:until, as far as, to(and extent), even–: 
 
@@ -89,6 +117,16 @@ To there
 To the point of tears
 
 
+
+
+
+ましょうか:shall I–; used to offer help to the listener:::::
+
+ぶき　ぼうぐ
+武器や防具について聞かせてあげましょうか
+Shall I tell you about weapons and armor?
+Shall I let/make you listen about weapons or(among other things) armor?
+
 な:ordering someone to not do something: just add な to the dictionary form of a verb 
 
 なあ:sentence ending particle, it shows confirmation, admiration, etc. it’s usually written with a small あ。similar to ね
@@ -96,7 +134,12 @@ To the point of tears
 懐かしいなあ		なつかしいなあ
 How nostalgic
 
-ないで: without doing. To do A without doing B
+ないで: without doing. To do A without doing B. by putting a verb A into the ない form and adding で followed by another verb B you can express doing A without doing B.
+
+さいご		きをぬく
+これで最後だよ気を抜かないでせーの
+This is the last time. Let’s go without losing focus. Ready, set, Go!
+
 コーヒーにはいつも砂糖を入れないで飲みます
 コーヒーにはいつもさとうをいれないでのみます
 I always drink coffee without putting in sugar.
@@ -106,36 +149,42 @@ I always drink coffee without putting in sugar.
 その名前は口にしないで
 don’t speak that name
 
+(53:54)ないといけない・ないとだめ・ないと:must do; have an obligation to do:
 
-
-ないといけない:must do、 have an obligation to do. 
-ないと is short and casual
+ないとダメ	/	ないと is short and casual
 
 脱出しないといけない
-だっしゅつしないといけない
-We gotta escape
+だっしゅつしないといけない		We must escape
 
-なくちゃいけない	なくてはいけない: must do; need to do::this is a formal expression,
+
+なくてはいけない・なくちゃいけない: Must do; need to do(subjective):::::: it’s quite formal
+なくちゃいけない・なくてはいけない・なくちゃ: must do; need to do::this is a formal expression, it’s more subjective. It’s a casual expression that shows the SUBJECTIVE view of needing to do something. You feel that it’s something you must do and it’s based on your own decision
 
 仕事を見つけなくちゃいけない
 I need to find a job
 
-なくてはならない:must do; neet to do. Another way to express these words.(a sense of duty/obligation).. This time we replace いけない with ならない. The core meaning of ikenai is a subjective view that something is not good. However, With ならない, its core meaning is that it is objectively bad, and there’s this sense of obligation to either the rule or society that an action must be done.
+なくてはならない:must do; neet to do. Another way to express these words.(a sense of duty/obligation).. This time we replace いけない with ならない. The core meaning of ikenai is a subjective view that something is not good. However, With ならない, its core meaning is that it is objectively bad, and there’s this sense of obligation to either the rule or society that an action must be done. The core meaning of いけない is a subjective view that something is not good. however with ならない, its core meaning is that it’s objectively bad, and there’s a sense of obligation to either the rule or society that an action must be done.
 
+	ながと
 ワシは長門を…ペインを止めなくてはならない
 I… I must stop nagato… I must stop pain
 
 
-なくちゃ:must do、 need to、 gotta do.. This is the most casual version
+なくちゃ(なくては):must do、 need to、 gotta do.. This is the most casual version
 早く追いかけなくちゃ
 We gotta catch up to him quickly
 
-なくてもいい		なくていい: you don’t have to. It’s used to express that you don’t need to do a certain action. Put the verb in the nai form and add kutemoii or kuteii
+なくてもいい・なくていい: you don’t have to. It’s used to express that you don’t need to do a certain action. Put the verb in the nai form and add くてもいい　or くていい. Dropping the も makes it more casual.
+
 ミラーがやらなくてもいい仕事だった
 It was a job miller didn’t have to do
 
 一人で行かなくてもいい
 You don’t have to go alone
+
+
+
+
 
 
 になる: to become.. A useful expression showing almost anything becoming something. Works with nouns and na-adjectives
@@ -158,10 +207,10 @@ They will become really absorbed in order to eat and will become difficult to ru
 強くなる		つよくなる
 To become strong
 
-のです:to explain something, express reason:: it’s used when you’re talking about a reason or a fact, or explanation as to why something is a certain way.
+(1:02:14)のです:to explain something, express reason:: it’s used when you’re talking about a reason or a fact, or explanation as to why something is a certain way. Adding this to a sentence shows that what you’re talking about now feels like the focus is that you’re really talking about the reasons, the facts or the explanations on that matter.
 
 そんなに上士様は偉いのですか	そんなにじょうしさまはえらいのですか
-Is it that joushi are so great and important?
+Is it that jyoushi are so great and important?
 
 難しいです		難しいのです
 It’s difficult		it is that it’s difficult
@@ -170,17 +219,25 @@ It’s difficult		it is that it’s difficult
 
 に:destination particle; in, at, on, to. It has a diverse usage.
 1.In: within a confined space, doing a certain action.
-東京に住んでいます
+
+東京に住んでいます	I am living in kyoto
 
 2.At: at a certain point in time
-I live in tokyo
-三時に寝ます		I sleep at three o?clock
+
+三時に寝ます		I sleep at three o'clock
+
+
+もんをひらいたせつなにとびこむぞ
+門を開いた刹那に飛び込むぞ
+We’ll burst in at the moment you open the gate
 
 3.On: to express where objects are
+
 コーヒーがテーブルの上にあります
-The coffee is on the table
+The coffee is on(top of) the table
 
 4.To: used to express the direction in which we take an action
+
 日本に行く	go to japan
 
 今　店に入ってきたことや
@@ -203,6 +260,7 @@ On that occasion, let’s decide to come back here
 
 飲み物は何にする?
 What will you decide to have to drink?
+
 コーヒーにする	I’ll decide to have coffee
 
 の:1.possessive particle
@@ -218,16 +276,20 @@ The one that I ate is pizza
 俺が心底惚れてたのは別に女だ
 おれがしんそこほれてたのはべつのおんなだ
 The one that I was in love with from the bottom of my heart was another woman
-	
 
 のが下手:to be bad at something:: we use this to describe more information about doing a certain action.
 まだ電気を溜めるのが下手
 まだでんきをためるのがへた
 I’m still not good at storing electricity:
 
-ので:because of; given that; since: this grammar is used to explain a reason or reasoning for an action, the reason is given before ので. More formal than から, and also very focused in explaining the reasoning
+ので:because of; given that; since: this grammar is used to explain a reason or reasoning for an action, the reason is given before ので. More formal than から, and also very focused in explaining the reasoning. This is more formal than から, and it’s focused on explaining the reasoning
 
-雨が降っていたので、試合が中止になりました	ちゅし
+ただいま	きんきゅうしょくいんかいぎをおこないます
+只今より、緊急職員会議を行いますので
+From now on, there will be an emergency staff meeting, therefore
+
+				ちゅし
+雨が降っていたので、試合が中止になりました
 Since it rained, the match was cancelled(made suspended)
 
 お:polite marker; honorific prefix particle(onyomi)::it adds a level of politeness and honorifics to a word you like using, this can make words more respectful, refined, or even just a part of a word is that way.
@@ -236,21 +298,27 @@ Since it rained, the match was cancelled(made suspended)
 ご:polite marker; honorific prefix particle(kunyomi)::You are speaking of someone else’s action or thing in a very respectful and honorific manner.
 
 —these two rules are general, they do not always apply
-を:object marker particle: think of the object in the sentence as something that is the target of the verb in that sentence. 
 
+
+
+(1:29:00)を:object marker particle: think of the object in the sentence as something that is the target of the verb in that sentence. 
+
+	なげる
 ボールを投げる	throw a ball
 バナナをよこせ	hand over the bananas
 
 をください	を下さい: please give me
 
 しかし:but, however. Formal. でも(casual)
-
-それから:and, and then, after that, since then:: one of 2 ways in n5 japanese to introduce new info into a sentence
+それから:and, and then, after that, since then.(LITERALLY FROM THAT):: one of 2 ways in n5 japanese to introduce new info into a sentence. These actions take place independently of each other. it’s more focused on continuation of events after the previous. それからでも=even after that.
 
 ピザを食べました。それから映画を見ました
 I ate pizza. And then, I watched a movie
-そして:and, and then, thus, and now:: it’s more focused on continuation of events after the previous, event A そして(and then) event B
-すぎろ(すぎん):too much::it’s used to express when something is too much.. It can be used with verbs and adjectives.
+
+そして:and, and then, thus, and now:: それから　is more focused on continuation of events after the previous. With そして it’s more like ‘and’: I did A, then B, It’s more continuous than それから in terms of story telling, and it keeps the actions feeling like they’re continuing and connected together.
+
+すぎる(すぎん):too much::it’s used to express when something is too much.. It can be used with verbs and adjectives.
+
 Verbs: put the verb in the masu form, remove masu, add すぎる
 
 食べすぎる	to eat too much
@@ -262,7 +330,7 @@ na-adjective, just add 	すぎる
 熱すぎる	too hot
 簡単すぎる	too simple
 
-たことがある:to have done something before..this is an expression to show we have done a curtain verb some time in the past before now. The が particle can be dropped so it’s casual
+たことがある:to have done something before(the thing of doing it exists)..this is an expression to show we have done a curtain verb some time in the past before now. The が particle can be dropped so it’s casual
 Put the verb in plain past, and add　ことがある
 
 前に聞いたことがあるぜ
@@ -275,7 +343,7 @@ I’ve heard about it before
 こんなの…映画でしかみたことない
 This kind of thing… I’ve only ever seen it in the movies(lit:never seen it in anything but movies)
 
-たり・・たり:do such things as A and B::it’s a useful way of giving a list of various things, it’s best thought of as meaning ‘things like’, it can be used with verbs, nouns and adjectives
+たり・・たり:do such things as A and B::it’s a useful way of giving a list of various things, it’s best thought of as meaning ‘things like’. it can be used with verbs, nouns and adjectives: just put them in the past form and add り
 
 Verbs: put them in the past form and add り
 買い物した	I shopped
@@ -289,19 +357,20 @@ I-adjectives: remove i and add かったり
 忙しかったり things like being busy
 
 たり:do such things as A
-てある(te form followed by aru):is/has been done (resulting state). It makes it feel like something is done intentionally and you can see the resulting state of that action, it’s similar to the past tense form, but it’s different in that it places emphasis on the action being done intentionally, and that end result is still being visible.
+
+てある(te form followed by aru):is/has been done (resulting state). It makes it feel like something is done intentionally and you can see the resulting state of that action. It's similar to using the past tense form, but it’s different in that it places emphasis on the action being done intentionally, and that end result is still being visible.
 
 あのリスト…何が書いてあるんだ
-That list… what has been written in it
+That list… what is it that has been written
 
 ドアを開けた		i opened the door
-ドアを開けてある	The door has been opened
+ドアが開けてある	The door has been opened
 
-ている:ongoing action or current state. The progressive tense of a verb
+(1:45:20)ている:ongoing action or current state:::::. The progressive tense of a verb
 
 
 
-てから:after doing –; since –::since から means from, you can think of it as meaning from doing a verb, or since doing doing a verb. The two most commons meaning are after or since
+てから:after doing –; since –::since から means from, you can think of it as meaning from doing a verb, or since doing a verb. The two most common meanings are after or since
 
 勉強してから、寝ました
 After studying, I went to bed
@@ -311,9 +380,13 @@ It’s because it’s the first time we’ve met since you grew up
 
 てください:please do —::asking someone to do something
 
-てはいけない		てはいけません:must not; may not; cannot;
+てはいけない・てはいけません:must not; may not; cannot;
 
-てもいい・ていい(casual): is okay, is alright to, can may:: if you want to give or ask for permission to do something. It can be used with verbs, nouns and adjectives. Put them in the てform, and then add もいい
+ぶき　そうび		たよる
+武器や装備に頼ってはいけない
+You must not rely on weapons and equipment
+
+てもいい・ていい(casual): is okay, is alright to, can may:: if you want to give or ask for permission to do something. It can be used with verbs, nouns and adjectives. Put them in the てform, and then add もいい, although you can drop も if you want to be more casual
 
 呼び捨てにしてくれていいぜ
 よびすてにしてくれていいぜ
@@ -323,6 +396,7 @@ It’s okay to drop the formalities
 Add でもいい in nouns and na adjectives
 静かでもいい		it’s okay even if it’s quiet
 ピザでもいい		pizza is okay
+
 高くてもいい		it’s okay even if it’s expensive
 
 と:3 distinctive uses at the n5 level
@@ -333,14 +407,15 @@ Go together with friends
 
 3.as::It can used as a kind of quote for something
 
-私がなぜリボルバーと呼ばれているか	呼ばれて
+私がなぜリボルバーと呼ばれているか	よばれて
 Why it is that I’m referred to as revolver
 
 
-とき:when; at the time::when or at a certain time
+とき:when; at the time::when or at a certain time::::::
 
 Verb:put the verb in casual(dictionary) form and add とき
 学校に行くとき	when I go to school
+
 age/noun: add のとき
 十八歳のとき　when 18 years old
 
@@ -358,7 +433,7 @@ Do you really intend to do it?
 いつまでそうしているつもりだ…
 How long do you plan to keep doing that…
 
-もう一回ごの動画を見るつもりです
+もう一回この動画を見るつもりです
 I intend to watch this video one more time
 
 は:topic marker::speaking of–;as for –:: it shifts the topic of the sentence to what comes before は.
@@ -367,6 +442,7 @@ I intend to watch this video one more time
 は・・より。。です:
 
 はどうですか: how about; how is::we can ask how a certain noun is, or how is it going.
+
 気分はどうだ?
 How is your feeling/mood	
 
@@ -376,11 +452,13 @@ How is this video?
 
 
 や:and; or; connecting particle
+
 ピザやパスタが好きです	I like things like pizza and pasta
 
 より・・方が:A is more than B..verbs, adjective or nouns. The verb can be used in any form. You can compare anything
 
 Nouns: の comes after the noun.. The rest are there in the normal form
+
 教科書よりこの動画の方が面白いといいな
 きょうかしょ　ほう　おもしろい　	
 I hope this video has been more enjoyable than textbooks
