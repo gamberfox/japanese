@@ -1,3 +1,11 @@
+-language=jpn
+left bump:air roll
+right bump: power slide
+scoreboard: select 
+reset shot: x
+defend shot: which is select
+
+
 79B1-C81A-521A-B98D
 A275-4CCE-FECA-7E13
 BA90-E94F-B774-7920
