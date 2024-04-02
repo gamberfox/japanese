@@ -1,7 +1,11 @@
 #
 #positioning is more important than momentum
 -time your arrival
+-line up before you jump
 
+
+-go back if your teammate comes in
+-if your teammate is up, don't go up
 #
 #
 #
