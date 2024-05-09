@@ -1,0 +1,11 @@
+#you can hoe, then go back to normal with pickaxe
+-find something with hoe
+-when there is 6 hoed spots, go to the left until you're
+above the starting spot
+-do the pattern 4 times
+-repeat pattern 1 spot above where you started 
+---that's a full rotation
+-then 3 spots to the right of the first spot
+
+--if there's an object blocking a spot that you need to hoe,
+hoe a different spot and it'll skip that spot and you can continue with the pattern, same with hoeing wrong spot
