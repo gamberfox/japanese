@@ -1,0 +1,10 @@
+north:
+-third
+-second after tent
+
+west:
+-seventh
+-eight
+-tenth
+-18
+-22
