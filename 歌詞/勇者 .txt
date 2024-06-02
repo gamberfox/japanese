@@ -18,7 +18,7 @@ A passage I cut out
 それはかつてこの地に
 that is the [] that once this land
 
-かげ	お	あく	
+かげ お	あく	
 影を落とした悪を
 The evil that once cast a shadow
 
@@ -29,8 +29,6 @@ With the hero who vanquished the evil
 みじか	たび	きおく	
 短い旅の記憶
 The memory of a short journey
-
-
 
 ものがたり	お	
 物語は終わり
@@ -43,7 +41,7 @@ The hero goes to sleep
 おだ	にちじょう	
 穏やかな日常を
 a calm/quiet everyday/routine
-ち	のこ	
+   ち	のこ	
 この地に残して
 in this land, is left
 
@@ -88,11 +86,12 @@ even now surely reside within me
 
 おな みち	えら	
 同じ途を選んだ
-
+the same path was chosen
+we chose the same path
 
 それだけだったはずなのに
 
-ま	
+     ま	
 いつの間にかどうして
 
 ほほ	つた	なみだ	わけ	
@@ -107,10 +106,10 @@ even now surely reside within me
 とも	あゆ	たびじ	たど	
 共に歩んだ旅路を辿れば
 
-きみ	い	
+   きみ	い	
 そこに君は居なくとも
 
-み	
+    み	
 きっと見つけられる
 
 
@@ -122,7 +121,7 @@ even now surely reside within me
 ひとり	たび	た	
 一人の旅へと発つ
 
-た	よ	まち	であ	
+た  よ	まち	であ	
 立ち寄る街で出会う
 
 ひと	きおく	なか	のこ	きみ	
